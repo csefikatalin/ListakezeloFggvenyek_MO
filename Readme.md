@@ -11,7 +11,7 @@ legyen egy szűrőmező, ami segítségével név szerint tudjuk szűrni az adat
 
 ## Függvények
 
-1. *** tablazatLetrehoz(lista) -> txt; ***   lista alapján készít html kódot, táblázatot, viszaadja  az elkészült html szöveget, minden sor mellett egy törlés ikonnal. 
+1. ** tablazatLetrehoz(lista) -> txt; **   lista alapján készít html kódot, táblázatot, viszaadja  az elkészült html szöveget, minden sor mellett egy törlés ikonnal. 
 
 2. *** megjelenit(txt); *** - meglejelítni a paraméterében kapott szöveget egy adott html elemben. 
 
